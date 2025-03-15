@@ -1,1 +1,1 @@
-# ledscreen
+# ledscreenI am creating a remote that takes in a specified input button, then executes a specified output function (display on LCD). The LCD should initially ask the user for the input ("What is the language?), if the user presses 1 they should get english if they press 2 they should get mandarin and if they press 3 they should get Spanish. Follow the examples below and keep the pins and hexcodes.
